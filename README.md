@@ -1,4 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BE%20HyeonMin&fontSize=90" />
+</div>
+<div align="center">
 Developers looking to the future rather than the present
   
 Hi there 👋
@@ -36,7 +39,15 @@ Let's not be conceited!
 <br>
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-</div>
+</div><br>
+
+<div align="center">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coocoo08&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coocoo08&layout=compact&theme=dark)
+
+  </div>
 <!--
 **coocoo08/coocoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
