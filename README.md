@@ -1,5 +1,5 @@
 <div align="center">  
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=BE%20HyeonMin&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HyeonMin&fontSize=90" />
 </div>
 <div align="center">
 Developers looking to the future rather than the present
@@ -15,12 +15,13 @@ Let's not be conceited!
 
 서로에게 도움이 되는 개발자 되어가요‼
 </div> 
-<br> 
+<hr> 
 <div align="center">
 ❤️ I love...
   
 📸사진🏂스노우보드  
 </div>
+<hr> 
 <br> 
 <div align="center">
 🔥 Used Framework & Skill 🔥
@@ -40,7 +41,7 @@ Let's not be conceited!
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"> 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 </div><br>
-
+<hr> 
 <div align="center">
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coocoo08&show_icons=true&theme=radical) 
