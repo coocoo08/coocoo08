@@ -6,7 +6,7 @@ Developers looking to the future rather than the present
   
 Hi there 👋
 
-미래를 보는 개발자 김현민입니다."
+미래를 보는 개발자 김현민입니다.
 
 Let's not be conceited! 
  
