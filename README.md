@@ -46,8 +46,19 @@ Let's not be conceited!
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coocoo08&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coocoo08&layout=compact&theme=dracula)](https://github.com/metleeha)
+[![trophy](https://github-profile-trophy.vercel.app/?username=coocoo08&theme=flat&column=7)](https://github.com/coocoo08/github-profile-trophy)
+  
+</div>
 
-  </div>
+
+
+<!-- 
+@param username 작성자의 id를 넣는다.
+@param theme 다양하게 적용할 수 있다. source repo의 README.md에서 참조
+@param column 화면에 보여질 트로피 열의 수다. 총 7개일경우 3개씩이면 3줄이된다.
+-->
+
+
 <!--
 **coocoo08/coocoo08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
