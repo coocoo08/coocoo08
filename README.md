@@ -46,7 +46,8 @@ Let's not be conceited!
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=coocoo08&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coocoo08&layout=compact&theme=dracula)](https://github.com/metleeha)
-[![trophy](https://github-profile-trophy.vercel.app/?username=coocoo08&theme=flat&column=7)](https://github.com/coocoo08/github-profile-trophy)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=coocoo08&theme=flat&column=7)](https://github.com/coocoo08/github-profile-trophy)
   
 </div>
 
